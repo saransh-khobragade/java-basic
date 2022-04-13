@@ -1,0 +1,7 @@
+psvm            public static void main
+opt+cmd+l       preetify
+shift+f6        rename
+sout            print
+shift+ctrl+r    run
+comment         //
+multilinecomment    /*---*/
